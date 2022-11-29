@@ -1,4 +1,3 @@
-### Hi, I'm Sumon Barai 👋,
 <h1 align="left" style="font-size:80px">Hi, I'm Sumon Barai 👋,</h1>
 #### I am a Frontend Developer
 ![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/D5616AQGBJDM4nbx_LQ/profile-displaybackgroundimage-shrink_350_1400/0/1665776084109?e=1675296000&v=beta&t=oqlIjpdfPopvYpCLQENjm5sQ4TBt4UXxHyTOLzIv3_I)
