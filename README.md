@@ -1,5 +1,5 @@
-### Hi there 👋, Hi, I'm Sumon Barai
-#### I am GitHub Readme Generator's creator
+### Hi, I'm Sumon Barai 👋,
+#### I am a Frontend Developer
 ![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/D5616AQGBJDM4nbx_LQ/profile-displaybackgroundimage-shrink_350_1400/0/1665776084109?e=1675296000&v=beta&t=oqlIjpdfPopvYpCLQENjm5sQ4TBt4UXxHyTOLzIv3_I)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
