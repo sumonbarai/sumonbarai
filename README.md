@@ -8,9 +8,8 @@ MERN STACK DEVELOPER
 I have been learning coding for about 3 years. I started with HTML CSS and JavaScript. Now I am working on React js. I have really found a passion for front-end development.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Live Link](http://sumondev.netlify.app)
 * ✉️  You can contact me at [sumonbarai78@gmail.com](mailto:sumonbarai78@gmail.com)
-* 🧠  I'm learning express js and MongoBD
+* 🧠  I'm learning NextJS
 
 ### Skills
 
