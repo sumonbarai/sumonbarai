@@ -3,7 +3,7 @@
 <h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I have been learning coding for about 3 years. I started with HTML CSS and JavaScript. Now I am working on React js. I have really found a passion for front-end development.
+<p align="center">I have been learning coding for about 3 years. I started with HTML CSS and JavaScript. Now I am working on React js. I have really found a passion for front-end development.</p>
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [sumonbarai78@gmail.com](mailto:sumonbarai78@gmail.com)
